@@ -1,6 +1,9 @@
 # ISTE-Crypt-Cryptography-Track-
 My submission for the Take-Home assignment on the Cryptography track
 
+Ashish Bharath
+201cs208
+
 
 Question 1:
 Write a pseudo code/Algorithm to check if two strings are anagram without comparing two strings directly, frequency of characters and sorting, or any built-in functions?
