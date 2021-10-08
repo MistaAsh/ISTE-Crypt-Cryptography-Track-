@@ -10,3 +10,6 @@ Write a pseudo code/Algorithm to check if two strings are anagram without compar
 - if same, the two strings are anagrams
 
 (the above solution can be further optimized by mapping the most used alphabets to the lesser prime numbers to ensure the product doesn't become too large)
+
+Question 2:  
+In a blockchain system, how do you ensure a transaction can be added to a block (of the blockchain) or not?
